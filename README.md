@@ -1,3 +1,1 @@
 # androidHybridSampleForJava
-# androidHybridSampleForJava
-# androidHybridSampleForJava
